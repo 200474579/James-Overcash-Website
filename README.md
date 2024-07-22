@@ -1,1 +1,1 @@
-Hello, my name is James Overcash and this is my website. I am a student at the Gwinnett School of Mathematics, Science, and Technology who is passionate about mathematics and coding.
+Hello, my name is James Overcash and this is my website. I am a student at the Gwinnett School of Mathematics, Science, and Technology who is passionate about mathematics and coding. I am creating this website so that I can get experience with web design which is an aspect of software development that I don't usually meddle in.
